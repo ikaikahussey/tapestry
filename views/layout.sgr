@@ -8,7 +8,7 @@ html
     meta(name='viewport' content='width=device-width, initial-scale=1')
 
     block(name='title')
-      title Title of Your Site
+      title The Independent
 
     link(rel='stylesheet' href='css/index.css')
 
@@ -18,3 +18,5 @@ html
 
     block(name='javascript')
       script(src='js/main.js' defer)
+      
+    strong this is a test of new content
